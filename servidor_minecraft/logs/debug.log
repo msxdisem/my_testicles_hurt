@@ -12103,3 +12103,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Feb2025 19:09:05.321] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1103, y=-10, z=555}
 [21Feb2025 19:09:12.585] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1139, y=-24, z=559}
 [21Feb2025 19:09:12.585] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1138, y=-24, z=559}
+[21Feb2025 19:10:43.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=902, y=88, z=472} BlockPos{x=900, y=87, z=474}
+[21Feb2025 19:11:39.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 19:11:39.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 19:14:34.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! -0.18001421956796548,-1.871105456291403,-17.647040246076585
+[21Feb2025 19:16:39.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 19:16:39.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 19:16:42.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1065, y=71, z=472} BlockPos{x=1065, y=70, z=472}
+[21Feb2025 19:16:43.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1065, y=70, z=472} BlockPos{x=1065, y=69, z=472}
+[21Feb2025 19:16:44.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1065, y=66, z=472} BlockPos{x=1065, y=68, z=472}
+[21Feb2025 19:16:45.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1065, y=65, z=472} BlockPos{x=1065, y=63, z=472}
+[21Feb2025 19:19:36.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [Just a Flesh Wound]
+[21Feb2025 19:20:11.517] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/23768, l='ServerLevel[world]', x=1068.66, y=49.46, z=531.69], dimensionLocationPath overworld
+[21Feb2025 19:20:11.517] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/23768, l='ServerLevel[world]', x=1068.66, y=49.46, z=531.69] in list []
+[21Feb2025 19:20:11.817] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Air'/23768, l='ServerLevel[world]', x=1068.75, y=49.79, z=531.41]

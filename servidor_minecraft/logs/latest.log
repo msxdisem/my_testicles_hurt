@@ -802,3 +802,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Feb2025 19:16:44.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1065, y=66, z=472} BlockPos{x=1065, y=68, z=472}
 [21Feb2025 19:16:45.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1065, y=65, z=472} BlockPos{x=1065, y=63, z=472}
 [21Feb2025 19:19:36.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [Just a Flesh Wound]
+[21Feb2025 19:20:16.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1068, y=49, z=537} BlockPos{x=1068, y=51, z=538}
+[21Feb2025 19:20:16.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1068, y=49, z=538} BlockPos{x=1068, y=51, z=538}
+[21Feb2025 19:20:16.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1068, y=49, z=539} BlockPos{x=1068, y=51, z=538}
+[21Feb2025 19:25:38.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1068, y=49, z=582} BlockPos{x=1068, y=48, z=581}

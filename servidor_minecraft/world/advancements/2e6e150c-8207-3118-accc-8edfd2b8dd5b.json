@@ -21308,6 +21308,12 @@
     },
     "done": false
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-02-21 19:19:36 +0000"
+    },
+    "done": true
+  },
   "threateningly_mobs:steelboar_defeat": {
     "criteria": {
       "steelboar_defeat_0": "2025-02-21 19:00:48 +0000"

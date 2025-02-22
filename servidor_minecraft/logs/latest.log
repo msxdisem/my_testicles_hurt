@@ -771,3 +771,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Feb2025 19:47:02.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
 [22Feb2025 19:47:12.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
 [22Feb2025 19:48:39.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[22Feb2025 19:52:27.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1067.500000, 100.000000, 472.500000]
+[22Feb2025 19:52:28.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[22Feb2025 19:53:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1067.500000, 100.000000, 472.500000]
+[22Feb2025 19:55:33.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[22Feb2025 19:55:59.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=975, y=87, z=472} BlockPos{x=976, y=83, z=472}
+[22Feb2025 19:57:42.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=898, y=83, z=527} BlockPos{x=898, y=82, z=526}
+[22Feb2025 19:59:05.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Herc was on a Roll!]
+[22Feb2025 19:59:45.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=899, y=86, z=603} BlockPos{x=899, y=82, z=603}
+[22Feb2025 20:00:28.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[22Feb2025 20:02:24.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[22Feb2025 20:05:10.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=897, y=82, z=663} BlockPos{x=898, y=83, z=661}
+[22Feb2025 20:05:23.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=899, y=86, z=661} BlockPos{x=901, y=87, z=660}
+[22Feb2025 20:05:29.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[22Feb2025 20:06:59.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=904, y=76, z=661} BlockPos{x=904, y=76, z=660}
+[22Feb2025 20:07:06.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Creative Mode]
+[22Feb2025 20:07:11.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Survival Mode]
+[22Feb2025 20:07:16.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=909, y=75, z=662} BlockPos{x=908, y=75, z=662}
+[22Feb2025 20:07:17.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=909, y=75, z=662} BlockPos{x=908, y=75, z=662}
+[22Feb2025 20:09:09.624] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1312, y=29, z=353}
+[22Feb2025 20:09:09.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[22Feb2025 20:09:21.129] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1389, y=3, z=374}
+[22Feb2025 20:09:29.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4722ms or 94 ticks behind
+[22Feb2025 20:09:48.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4282ms or 85 ticks behind
+[22Feb2025 20:10:07.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3439ms or 68 ticks behind
+[22Feb2025 20:10:07.336] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1481, y=-10, z=185}
+[22Feb2025 20:10:07.336] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1481, y=-10, z=187}
+[22Feb2025 20:10:24.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
+[22Feb2025 20:10:26.742] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1582, y=-22, z=228}
+[22Feb2025 20:10:29.856] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1606, y=1, z=528}

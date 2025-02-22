@@ -16496,5 +16496,11 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-22 19:59:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -774,3 +774,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Feb2025 18:29:33.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=948, y=110, z=640} BlockPos{x=952, y=109, z=636}
 [23Feb2025 18:30:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
 [23Feb2025 18:33:54.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]
+[23Feb2025 18:40:48.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[23Feb2025 18:40:48.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[23Feb2025 18:40:48.697] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[23Feb2025 18:40:48.763] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

@@ -763,3 +763,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Feb2025 18:19:30.313] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1087, y=-29, z=443}
 [23Feb2025 18:20:13.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=922, y=111, z=625} BlockPos{x=922, y=110, z=625}
 [23Feb2025 18:20:13.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=922, y=111, z=625} BlockPos{x=922, y=110, z=625}
+[23Feb2025 18:28:58.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=974, y=109, z=632} BlockPos{x=975, y=109, z=632}
+[23Feb2025 18:28:58.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=109, z=632} BlockPos{x=975, y=109, z=632}
+[23Feb2025 18:28:58.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=109, z=632} BlockPos{x=975, y=109, z=632}
+[23Feb2025 18:28:58.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=973, y=109, z=632} BlockPos{x=975, y=109, z=632}
+[23Feb2025 18:29:33.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=948, y=110, z=640} BlockPos{x=952, y=109, z=636}
+[23Feb2025 18:29:33.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=948, y=110, z=640} BlockPos{x=952, y=109, z=636}
+[23Feb2025 18:29:33.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=948, y=110, z=640} BlockPos{x=952, y=109, z=636}
+[23Feb2025 18:29:33.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=948, y=110, z=640} BlockPos{x=952, y=109, z=636}
+[23Feb2025 18:29:33.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=948, y=110, z=640} BlockPos{x=952, y=109, z=636}
+[23Feb2025 18:30:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[23Feb2025 18:33:54.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the weather to clear]

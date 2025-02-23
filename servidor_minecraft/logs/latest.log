@@ -778,3 +778,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23Feb2025 18:40:48.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
 [23Feb2025 18:40:48.697] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
 [23Feb2025 18:40:48.763] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Feb2025 18:48:13.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.101.117.36:53426] logged in with entity id 12211 at (961.7578065046484, 109.0, 619.2587557893298)
+[23Feb2025 18:48:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[23Feb2025 18:48:13.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[23Feb2025 18:48:13.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[23Feb2025 18:48:13.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[23Feb2025 18:48:13.159] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[23Feb2025 18:48:15.094] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[23Feb2025 18:48:15.159] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[23Feb2025 18:48:15.164] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[23Feb2025 18:49:00.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Creative Mode]
+[23Feb2025 18:52:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set own game mode to Survival Mode]
+[23Feb2025 18:55:38.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 845.500000, 112.500000, -416.500000]

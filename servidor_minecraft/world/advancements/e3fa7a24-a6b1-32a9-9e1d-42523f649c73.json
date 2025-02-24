@@ -16508,12 +16508,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-02-24 04:20:02 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-02-24 04:14:48 +0000"

@@ -802,3 +802,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Feb2025 04:24:23.891] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
 [24Feb2025 04:24:38.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
 [24Feb2025 04:26:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 1007.500000, 109.500000, 634.500000]
+[24Feb2025 04:55:54.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 677.500000, 117.500000, -347.500000]
+[24Feb2025 05:00:05.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69859, l='ServerLevel[world]', x=743.73, y=115.00, z=-250.26] died, message: 'Unemployed was slain by The Moonflower'
+[24Feb2025 05:01:21.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 1067.500000, 89.500000, 472.500000]
+[24Feb2025 05:01:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 1028.500000, 99.500000, 516.500000]

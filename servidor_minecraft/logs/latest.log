@@ -776,3 +776,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Feb2025 03:09:51.909] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2111, y=-23, z=787}
 [24Feb2025 03:10:02.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 898.500000, 91.500000, 472.500000]
 [24Feb2025 03:12:05.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 968.500000, 109.500000, 625.500000]
+[24Feb2025 03:37:44.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1064, y=51, z=532} BlockPos{x=1062, y=49, z=534}
+[24Feb2025 03:37:44.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1064, y=51, z=532} BlockPos{x=1062, y=49, z=534}
+[24Feb2025 03:37:51.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1059, y=51, z=531} BlockPos{x=1058, y=50, z=531}
+[24Feb2025 03:40:18.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[24Feb2025 03:44:47.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[24Feb2025 03:44:58.342] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[24Feb2025 03:52:25.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=51, z=521} BlockPos{x=917, y=50, z=521}
+[24Feb2025 03:52:25.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=51, z=521} BlockPos{x=917, y=50, z=521}
+[24Feb2025 03:52:25.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=51, z=522} BlockPos{x=917, y=50, z=521}
+[24Feb2025 03:52:25.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=51, z=522} BlockPos{x=917, y=50, z=521}
+[24Feb2025 03:52:25.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=51, z=522} BlockPos{x=917, y=50, z=521}
+[24Feb2025 03:52:25.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=915, y=51, z=522} BlockPos{x=917, y=50, z=521}
+[24Feb2025 03:52:28.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=916, y=51, z=522} BlockPos{x=914, y=50, z=522}

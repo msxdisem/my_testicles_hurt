@@ -16508,6 +16508,25 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-24 04:20:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-02-24 04:14:48 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-02-24 03:53:20 +0000",
+      "killed": "2025-02-24 03:53:20 +0000"
+    },
+    "done": false
+  },
   "threateningly_mobs:steelboar_defeat": {
     "criteria": {
       "steelboar_defeat_0": "2025-02-24 03:08:00 +0000"

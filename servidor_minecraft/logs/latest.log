@@ -780,3 +780,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Feb2025 03:49:42.634] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1084, y=26, z=2543}
 [25Feb2025 03:49:44.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
 [25Feb2025 03:50:22.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 898.500000, 91.500000, 472.500000]
+[25Feb2025 04:02:21.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 677.500000, 117.500000, -347.500000]
+[25Feb2025 04:03:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 880.500000, 113.500000, -462.500000]
+[25Feb2025 04:03:44.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 898.500000, 91.500000, 472.500000]
+[25Feb2025 04:04:05.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 976.500000, 107.500000, 600.500000]

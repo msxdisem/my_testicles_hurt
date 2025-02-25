@@ -769,3 +769,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Feb2025 03:16:10.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 1067.500000, 89.500000, 472.500000]
 [25Feb2025 03:16:12.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto moved too quickly! 0.0,-11.842011517166327,0.0
 [25Feb2025 03:16:15.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 987.500000, 106.500000, 551.500000]
+[25Feb2025 03:30:52.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=106, z=543} BlockPos{x=999, y=106, z=541}
+[25Feb2025 03:30:52.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1000, y=106, z=543} BlockPos{x=999, y=106, z=541}

@@ -12080,3 +12080,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Feb2025 03:30:52.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1000, y=106, z=543} BlockPos{x=999, y=106, z=541}
 [25Feb2025 03:31:26.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Feb2025 03:31:26.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Feb2025 03:36:26.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 03:36:26.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Feb2025 03:41:26.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 03:41:26.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Feb2025 03:46:26.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 03:46:26.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Feb2025 03:48:47.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=965, y=106, z=547} BlockPos{x=966, y=106, z=548}
+[25Feb2025 03:48:59.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[25Feb2025 03:48:59.881] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:964, y:106, z:547, dim:minecraft:overworld]
+[25Feb2025 03:48:59.899] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[25Feb2025 03:49:05.749] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/1609, l='ServerLevel[world]', x=680.50, y=113.00, z=-342.50]
+[25Feb2025 03:49:09.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 963.500000, 106.500000, 547.500000]
+[25Feb2025 03:49:36.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1139.500000, 72.500000, 2663.500000]
+[25Feb2025 03:49:36.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[25Feb2025 03:49:42.634] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1084, y=26, z=2543}
+[25Feb2025 03:49:44.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[25Feb2025 03:50:22.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 898.500000, 91.500000, 472.500000]
+[25Feb2025 03:51:28.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 03:51:28.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

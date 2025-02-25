@@ -771,3 +771,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Feb2025 03:16:15.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 987.500000, 106.500000, 551.500000]
 [25Feb2025 03:30:52.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=999, y=106, z=543} BlockPos{x=999, y=106, z=541}
 [25Feb2025 03:30:52.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1000, y=106, z=543} BlockPos{x=999, y=106, z=541}
+[25Feb2025 03:48:47.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=965, y=106, z=547} BlockPos{x=966, y=106, z=548}
+[25Feb2025 03:48:59.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto died
+[25Feb2025 03:48:59.899] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[25Feb2025 03:49:09.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 963.500000, 106.500000, 547.500000]
+[25Feb2025 03:49:36.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1139.500000, 72.500000, 2663.500000]
+[25Feb2025 03:49:36.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[25Feb2025 03:49:42.634] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1084, y=26, z=2543}
+[25Feb2025 03:49:44.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[25Feb2025 03:50:22.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 898.500000, 91.500000, 472.500000]

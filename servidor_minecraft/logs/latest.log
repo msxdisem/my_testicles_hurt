@@ -763,3 +763,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Feb2025 02:30:53.957] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [27Feb2025 02:30:56.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22485ms or 449 ticks behind
 [27Feb2025 02:30:56.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 0.0,-18.77294878239934,0.0
+[27Feb2025 02:40:57.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:51578] logged in with entity id 3273 at (936.911225432281, 105.0, 592.3184260932329)
+[27Feb2025 02:40:57.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[27Feb2025 02:40:57.509] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[27Feb2025 02:40:57.510] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[27Feb2025 02:40:57.510] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[27Feb2025 02:40:57.514] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[27Feb2025 02:40:59.027] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[27Feb2025 02:40:59.055] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[27Feb2025 02:40:59.059] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[27Feb2025 02:42:07.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[27Feb2025 02:43:44.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 946.500000, 119.500000, -389.500000]
+[27Feb2025 02:44:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[27Feb2025 02:46:29.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 948.500000, 119.500000, -389.500000]
+[27Feb2025 03:02:11.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 677.500000, 117.500000, -347.500000]
+[27Feb2025 03:03:40.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 898.500000, 91.500000, 472.500000]
+[27Feb2025 03:06:24.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=918, y=104, z=628} BlockPos{x=918, y=104, z=627}

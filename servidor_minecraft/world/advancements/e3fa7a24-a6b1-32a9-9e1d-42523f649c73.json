@@ -16528,6 +16528,18 @@
     },
     "done": false
   },
+  "threateningly_mobs:titan_defeat": {
+    "criteria": {
+      "titan_defeat_0": "2025-02-27 03:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-02-27 03:18:50 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-02-27 03:27:47 +0000"
@@ -16597,18 +16609,6 @@
   "incendium:technical/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-02-27 03:27:47 +0000"
-    },
-    "done": false
-  },
-  "threateningly_mobs:titan_defeat": {
-    "criteria": {
-      "titan_defeat_0": "2025-02-27 03:18:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-02-27 03:18:50 +0000"
     },
     "done": false
   },

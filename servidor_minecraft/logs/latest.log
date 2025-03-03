@@ -760,3 +760,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Mar2025 01:58:59.084] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [03Mar2025 01:59:14.130] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
 [03Mar2025 01:59:15.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17388ms or 347 ticks behind
+[03Mar2025 02:07:00.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=962, y=51, z=677} BlockPos{x=963, y=49, z=677}
+[03Mar2025 02:14:13.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 913.500000, 81.500000, 672.500000]
+[03Mar2025 02:15:44.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 911.500000, 77.500000, 670.500000]
+[03Mar2025 02:17:24.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 930.500000, 103.500000, 621.500000]
+[03Mar2025 02:21:31.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 2477.500000, 129.500000, -650.500000]
+[03Mar2025 02:21:31.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[03Mar2025 02:21:39.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 677.500000, 117.500000, -347.500000]
